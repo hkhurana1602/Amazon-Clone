@@ -28,7 +28,7 @@
 }
 
 .logo {
-    background-image: url(Images/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     background-size : cover;
     height : 50px;
     width : 100%;
@@ -113,7 +113,7 @@
 }
 
 .flag{
-    background-image: url(Images/us_flag.png);
+    background-image: url(us_flag.png);
     background-size : cover;
     width: 21px;
     height: 16px;
@@ -154,7 +154,7 @@
 }
 
 .hero{
-    background-image: url(Images/hero_image.jpg);
+    background-image: url(hero_image.jpg);
     background-size: cover;
     height: 320px;
     display: flex;
@@ -252,7 +252,7 @@ ul a{
 }
 
 .logo{
-    background-image: url(Images/amazon_logo.png);
+    background-image: url(amazon_logo.png);
     background-size : cover;
     height : 50px;
     width : 100px;
